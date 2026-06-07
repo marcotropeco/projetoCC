@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell([System.IO.Directory]::GetFileSystemEntries\\(\"c:\\\\projects\\\\projeto1\"\\))"
+    ]
+  }
+}
